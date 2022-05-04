@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 from IRDNepal import __version__ as version
 
 setup(
-	name='IRD Nepal',
+	name='IRDNepal',
 	version=version,
 	description='IRD Nepal',
 	author='Param',
